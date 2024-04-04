@@ -1,0 +1,6 @@
+gymnasium==0.28.1
+matplotlib==3.7.0
+numpy==1.23.5
+plotly==5.13.1
+stable_baselines3==2.3.0
+torch==1.13.1+cu116
